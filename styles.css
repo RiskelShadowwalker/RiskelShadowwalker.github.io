@@ -80,27 +80,38 @@ li{
     font-size: 40px;
     color: darkgray;
 }
-.r1{
+.r0{
     position: absolute;
-    left:1275px;
+    left:1050px;
+    padding: 0px 0px 0px 0px;
 }
 .r2{
     position: absolute;
-    left:1275px;
-    padding: 650px 0px 0px 0px;
+    left:1050px;
+    padding: 400px 0px 0px 0px;
 }
 .r3{
     position: absolute;
-    left:1275px;
-    padding: 1300px 0px 0px 0px;
+    left:1050px;
+    padding: 1000px 0px 0px 0px;
 }
 .r4{
     position: absolute;
-    left:1275px;
-    padding: 1800px 0px 0px 0px;
+    left:1050px;
+    padding: 1450px 0px 0px 0px;
 }
 .r5{
     position: absolute;
-    left:1275px;
-    padding:2300px 0px 0px 0px;
+    left:1050px;
+    padding:1900px 0px 0px 0px;
+}
+.r6{
+    position: absolute;
+    left:950px;
+    padding:2425px 0px 0px 0px;
+}
+.r1{
+    position: absolute;
+    left:1050px;
+    padding: 450px 0px 0px 0px;
 }
